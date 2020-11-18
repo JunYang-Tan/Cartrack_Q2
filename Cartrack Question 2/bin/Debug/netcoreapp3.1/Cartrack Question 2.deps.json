@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Cartrack Question 2/1.0.0": {
+        "runtime": {
+          "Cartrack Question 2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cartrack Question 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

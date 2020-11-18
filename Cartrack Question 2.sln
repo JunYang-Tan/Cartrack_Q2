@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cartrack Question 2", "Cartrack Question 2\Cartrack Question 2.csproj", "{9B5E98D3-21C1-4CD8-BA01-FED7932C3519}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeTests", "PalindromeTests\PalindromeTests.csproj", "{4115F718-C5B9-4740-B92A-54DC0D86F3A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B5E98D3-21C1-4CD8-BA01-FED7932C3519}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B5E98D3-21C1-4CD8-BA01-FED7932C3519}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B5E98D3-21C1-4CD8-BA01-FED7932C3519}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B5E98D3-21C1-4CD8-BA01-FED7932C3519}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4115F718-C5B9-4740-B92A-54DC0D86F3A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4115F718-C5B9-4740-B92A-54DC0D86F3A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4115F718-C5B9-4740-B92A-54DC0D86F3A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4115F718-C5B9-4740-B92A-54DC0D86F3A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAA84EEE-1C3E-41EF-8055-419F30A3696D}
+	EndGlobalSection
+EndGlobal
